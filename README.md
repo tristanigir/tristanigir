@@ -14,5 +14,5 @@ Hoe kan je aanpassingen aan jouw
 pagina maken en hoe zorg je er voor
 dat die op het web gepubliceerd
 worden?
-- Commit changes?
+- Commit changes in Github, of aanpassen en opslaan op VSCodium
 
