@@ -1,3 +1,4 @@
+**Sprint 0**
 9 November 2026
 Opdracht: Bespreek de vragen:
 Wat is een source hosting platform is
@@ -19,3 +20,11 @@ worden?
 
 - Commit changes in Github, of aanpassen en opslaan op VSCodium
   x
+
+11 november
+
+13 november
+
+**Sprint 1**
+16 November 2026
+Ontwerp, realiseer en publiceer je digital garden.
